@@ -1,0 +1,6 @@
+numpy
+openCV
+openpyxl
+scikitlearn
+traceback
+opencv-contrib-python
