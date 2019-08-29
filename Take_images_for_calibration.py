@@ -25,14 +25,6 @@ def find_chess(gray):
         return (0, gray)
 
 imgID = 0
-=======
-###################################
-##### Authors:                #####
-##### Stephane Vujasinovic    #####
-##### Frederic Uhrweiller     ##### 
-#####                         #####
-##### Creation: 2017          #####
-###################################
 import os
 import numpy as np
 import cv2
