@@ -242,16 +242,11 @@ mtxL = np.load(filename_mtL)
 distL = np.load(filename_dL)
 ChessImaR = np.load(filename_chR)
 
-<<<<<<< HEAD
 print ('Files loaded')
-=======
-print('Files loaded')
->>>>>>> 06cc637e5cf46ef6cfc44e695338ef7896091d12
+
 # StereoCalibrate function
 flags = 0
 flags |= cv2.CALIB_FIX_INTRINSIC
-
-<<<<<<< HEAD
 # flags |= cv2.CALIB_FIX_PRINCIPAL_POINT
 # flags |= cv2.CALIB_USE_INTRINSIC_GUESS
 # flags |= cv2.CALIB_FIX_FOCAL_LENGTH
